@@ -1,0 +1,22 @@
+
+---
+
+**APIHorizonWatch**  
+**Description:**  
+Continuously monitors API endpoints for trend shifts, response decay, and availability over time.
+
+```markdown
+# APIHorizonWatch - Endpoint Trend Scanner
+
+APIHorizonWatch maps API performance across time windows and detects subtle signs of service degradation.
+
+## Features
+- Latency curve analysis  
+- Status code tracking  
+- Export to CSV or JSON
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIHorizonWatch.git
+cd APIHorizonWatch
+python monitor.py
