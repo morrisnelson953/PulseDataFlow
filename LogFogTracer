@@ -1,0 +1,22 @@
+
+---
+
+**LogFogTracer**  
+**Description:**  
+Finds diffuse bursts and overlapping log patterns that can obscure root causes in noisy environments.
+
+```markdown
+# LogFogTracer - Ambiguity-Focused Log Analyzer
+
+LogFogTracer helps reduce log noise by grouping fuzzy, semi-repetitive patterns into readable summaries.
+
+## Features
+- Fuzzy match and grouping  
+- Frequency heatmaps  
+- CLI reports
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogFogTracer.git
+cd LogFogTracer
+python analyze.py
