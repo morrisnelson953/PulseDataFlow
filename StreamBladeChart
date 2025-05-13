@@ -1,0 +1,22 @@
+
+---
+
+**StreamBladeChart**  
+**Description:**  
+Renders high-speed numeric streams into a sharp, blade-style scrolling chart for real-time insight.
+
+```markdown
+# StreamBladeChart - High-Speed Realtime Visualizer
+
+StreamBladeChart displays live metrics with a focus on smoothness and high refresh performance.
+
+## Features
+- Fast real-time updates  
+- Optional threshold indicators  
+- Built with Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamBladeChart.git
+cd StreamBladeChart
+python visualize.py
